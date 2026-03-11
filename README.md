@@ -45,3 +45,11 @@ Licensed under the **Apache License, Version 2.0**
 ## Preprint Note
 
 This is the theoretical foundation artifact. Full preprint with multi-shot analysis and quantum extensions coming in future versions.
+
+## Keywords:
+tokamak
+fusion energy
+plasma physics
+toroidal plasma
+magnetic confinement
+plasma attractor dynamics
